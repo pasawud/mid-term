@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9qXVgebJ6IAcmBKAXNvx1PHxpkU+93lPpj1UR4iClGQyanZCVmLeuzPRIpI37lM6V+AngOODe3zU92GZDbe9Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\เช็คกี้\\source\\repos\\mid-term-2\\mid-term-2\\mid-term-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\เช็คกี้\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
