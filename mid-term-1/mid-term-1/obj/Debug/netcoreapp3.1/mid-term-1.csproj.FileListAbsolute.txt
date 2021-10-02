@@ -1,0 +1,14 @@
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\bin\Debug\netcoreapp3.1\mid-term-1.exe
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\bin\Debug\netcoreapp3.1\mid-term-1.deps.json
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\bin\Debug\netcoreapp3.1\mid-term-1.runtimeconfig.json
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\bin\Debug\netcoreapp3.1\mid-term-1.runtimeconfig.dev.json
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\bin\Debug\netcoreapp3.1\mid-term-1.dll
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\bin\Debug\netcoreapp3.1\mid-term-1.pdb
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.csprojAssemblyReference.cache
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.AssemblyInfoInputs.cache
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.AssemblyInfo.cs
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.csproj.CoreCompileInputs.cache
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.dll
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.pdb
+C:\Users\เช็คกี้\source\repos\mid-term-1\mid-term-1\obj\Debug\netcoreapp3.1\mid-term-1.genruntimeconfig.cache
